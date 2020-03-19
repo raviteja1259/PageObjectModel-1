@@ -5,6 +5,7 @@ TestNG is used as test framework.
 Dependency
 Java
 Maven
+sonata
 
 ###libraries used
 Selenium
